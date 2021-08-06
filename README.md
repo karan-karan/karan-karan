@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karan-karan
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python data science
+- 🌱 I’m currently learning python for data science
 - 📫 How to reach me on email karantamer75@gmail.com
 
 <!---
