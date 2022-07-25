@@ -1,0 +1,2 @@
+print("Karan")
+print("Sonu")
