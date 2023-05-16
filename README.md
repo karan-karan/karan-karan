@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karan-karan
+- 👋 Hi, I’m @karan
 - 👀 I’m working as devops Engineer
 - 🌱 I’m currently working on DevOps projects
 - 📫 Reach me on email karantamer75@gmail.com
