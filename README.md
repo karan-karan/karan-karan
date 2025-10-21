@@ -1,16 +1,16 @@
 <!-- DevOps Professional GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Karan Tamer</h1>
+<h1 align="center">Hi 👋, I'm Karan Tanwar</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR-LINKEDIN" target="_blank](https://www.linkedin.com/in/karantanwar01/)">
+  <a href="[https://www.linkedin.com/in/karantanwar01/]">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:karantamer75@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
