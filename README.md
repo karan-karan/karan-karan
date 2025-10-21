@@ -7,7 +7,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="[https://linkedin.com/in/YOUR-LINKEDIN" target="_blank](https://www.linkedin.com/in/karantanwar01/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:YOUR-EMAIL@gmail.com">
@@ -103,26 +103,3 @@
 
 ⭐️ From [karantamer](https://github.com/karantamer)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m @karan
-- 👀 I’m working as devops Engineer
-- 🌱 I’m currently working on DevOps projects
-- 📫 Reach me on email karantamer75@gmail.com
-
-<!---
-karan-karan/karan-karan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
