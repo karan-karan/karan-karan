@@ -28,8 +28,8 @@
 
 ### 🏅 Certifications
 <p align="center">
-  <img src="https://images.credly.com/size/140x140/images/63316b60-f62b-4f4d-9b12-2b52c9bfe0c8/Microsoft_Azure_Fundamentals.png" width="100" height="100" alt="AZ-900 Badge"/>
-  <img src="https://images.credly.com/size/140x140/images/f39e1dc0-85d2-4f12-8b6d-76b7cf9e6e4a/Microsoft_Azure_Administrator_Associate.png" width="100" height="100" alt="AZ-104 Badge"/>
+  <img src="<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/bbd104d8-97e5-4504-88c9-9973bf069d86"/>
+  <img src="https://github.com/themr255/Azure-Certification-Badges/blob/main/AZ104%20-%20Azure%20Administrator.png?raw=true"/>
 </p>
 
 <p align="center">
@@ -41,16 +41,16 @@
 ### 🛠️ Tech Stack
 
 #### ☁️ Cloud & Infrastructure
-`AWS` `Azure` `GCP` `Terraform` `Ansible`
+`AWS` `Azure` `Terraform` `Ansible`
 
 #### 🐳 Containers & Orchestration
 `Docker` `Kubernetes` `Helm`
 
 #### 🚀 CI/CD
-`GitHub Actions` `Jenkins` `ArgoCD`
+`GitHub Actions` `Jenkins`
 
 #### 🧩 Monitoring & Logging
-`Prometheus` `Grafana` `ELK Stack`
+`Prometheus` `Grafana`
 
 #### 💻 Languages & Scripting
 `Python` `Bash` `YAML`
