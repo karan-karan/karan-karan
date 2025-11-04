@@ -28,7 +28,7 @@
 
 ### 🏅 Certifications
 <p align="center">
-  <img src="<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/bbd104d8-97e5-4504-88c9-9973bf069d86"/>
+  <img src="https://github.com/themr255/Azure-Certification-Badges/blob/main/AZ900%20-%20Azure%20Fundamentals.png?raw=true"/>
   <img src="https://github.com/themr255/Azure-Certification-Badges/blob/main/AZ104%20-%20Azure%20Administrator.png?raw=true"/>
 </p>
 
