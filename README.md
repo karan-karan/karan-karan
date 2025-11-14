@@ -18,9 +18,9 @@
 ---
 
 ### 🧠 About Me
-- 💼 **4+ years of experience** in IT, transitioning into **DevOps Engineering**
+- 💼 **4+ years of experience** in DevOps
 - ☁️ Passionate about **Cloud, Automation, and CI/CD**
-- 🧰 Proficient in: Docker, Kubernetes, Terraform, Jenkins, AWS, Azure, Ansible
+- 🧰 Proficient in: Docker, Kubernetes, Terraform, Jenkins,Github Actions, AWS, Azure
 - 🧩 Currently working on: **End-to-End CI/CD pipelines & observability**
 - 🧑‍💻 Learning advanced **GitOps** & **Kubernetes administration**
 
@@ -41,7 +41,7 @@
 ### 🛠️ Tech Stack
 
 #### ☁️ Cloud & Infrastructure
-`AWS` `Azure` `Terraform` `Ansible`
+`AWS` `Azure` `Terraform`
 
 #### 🐳 Containers & Orchestration
 `Docker` `Kubernetes` `Helm`
@@ -57,34 +57,9 @@
 
 ---
 
-### 📦 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| **AWS CI/CD Pipeline** | Automated deploy using Jenkins + Terraform + Ansible | AWS, Jenkins, Terraform, Ansible |
-| **Kubernetes Cluster Setup** | Multi-node cluster setup with monitoring | K8s, Prometheus, Grafana |
-| **GitOps with ArgoCD** | Continuous deployment using ArgoCD and Helm | K8s, ArgoCD, Helm |
-| **Dockerized Microservices** | Built & deployed microservices using Docker Compose | Docker, Python, Nginx |
-
-➡️ *Check out my pinned repositories below for detailed projects.*
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karantamer&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karantamer&theme=tokyonight" alt="GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karantamer&theme=react-dark" alt="GitHub activity graph"/>
-</p>
-
----
-
 ### 🧩 DevOps Tools in Action
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,terraform,ansible,linux,bash,githubactions,prometheus,grafana,python" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,linux,bash,githubactions,prometheus,grafana,python" />
 </p>
 
 ---
