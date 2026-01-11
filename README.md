@@ -65,16 +65,6 @@
 ---
 
 ### 🧠 Currently Learning
-- Advanced **Kubernetes (CKA/CKAD)** concepts
-- **Cloud-native monitoring & logging**
-- **GitOps pipelines** with ArgoCD & Helm
-
----
-
-### 💬 Fun Quote
-> “Automation doesn’t replace engineers — it empowers them to innovate.”
-
----
-
-⭐️ From [karantamer](https://github.com/karantamer)
-
+- Advanced Kubernetes concepts
+- Cloud-native monitoring & logging
+- GitOps pipelines with ArgoCD & Helm
